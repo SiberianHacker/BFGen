@@ -1,0 +1,2 @@
+# BFGen
+bungeecord botfilter generator
